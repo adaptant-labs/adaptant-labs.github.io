@@ -1,6 +1,2 @@
 plugins:
   - jekyll-redirect-from
-
-title: Adaptant Labs
-redirect_to:
-  - https://www.adaptant.io/research
